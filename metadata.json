@@ -1,0 +1,6 @@
+{
+  "name": "JNTUK CGPA Calculator",
+  "description": "Free online JNTUK CGPA and SGPA Calculator for R20 and R23 Regulations with dynamic subject lists, custom credit editors, history tracking, and PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
